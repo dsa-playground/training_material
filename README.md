@@ -1,2 +1,2 @@
-# training_material
+# Training material
 All kinds of trainings to increase (basic) knowledge of Data Science / Engineering / Management / ...
