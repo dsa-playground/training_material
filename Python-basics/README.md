@@ -1,9 +1,10 @@
 # Python bacics
 
-**Trainingsvorm:** Zelfstudie / minimale begeleiding
+**Trainingsvorm:** 
+- Zelfstudie / minimale begeleiding
 
 **Voorwaarden:**
-- Omgeving waarin Python / Jupyter Notebook kan draaien
+- Omgeving waarin Python / Jupyter Notebook kan draaien (lokaal/Google Colab)
 
 **Inhoud:**
 - Achtergrond Python 
@@ -13,4 +14,4 @@
 - Functies
 - Libraries
 
-**Duur:** 0,5 uur
+**Duur:** 1-2 uur (afhankelijk van achtergrond)
