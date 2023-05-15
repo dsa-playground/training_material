@@ -3,3 +3,4 @@ All kinds of trainings to increase (basic) knowledge of Data Science / Engineeri
 
 Trainings available:
 * Python-basics
+* PEP-8 & Docstrings
